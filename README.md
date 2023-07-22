@@ -1,4 +1,4 @@
-# Compressibility-Factor-Calculation-for-Natural-Gas-using-AGA8-Method
+# Compressibility Factor Calculation for Natural Gas using AGA8 Method
 # Overview
 This Python script calculates the compressibility factor of natural gas using the AGA8 method. The compressibility factor (Z-factor) is an essential parameter in the equation of state for natural gases, which allows accurate estimation of the gas behavior at different pressure and temperature conditions. The AGA8 method is widely used in the industry to determine the Z-factor of natural gas.
 
